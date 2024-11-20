@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Imq2T3peW5BboXzmZG0EY3cuphrzMv2RfuSj/rqGpZ1e5hr70zB+yKgiBryDm4CoAUkySZLnILpr0br0jKPc7A==",
+  "success": true,
+  "projectFilePath": "/Users/karthigeyanpr/Projects/LakshitaElegance/LakshitaElegance/LakshitaElegance.csproj",
+  "expectedPackageFiles": [
+    "/Users/karthigeyanpr/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/karthigeyanpr/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/karthigeyanpr/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
